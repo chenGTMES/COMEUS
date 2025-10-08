@@ -35,7 +35,7 @@ The code includes a set of **Phantom data** for quick testing.
 
 Additional test data is available at:
 
-👉 [Google Drive - ADDL Resources](https://drive.google.com/drive/folders/1GkizZg6Qgszza4yq0NN3csjsCeYWi2Mb?usp=drive_link)
+👉 [Google Drive - Test Data](https://drive.google.com/drive/folders/1GkizZg6Qgszza4yq0NN3csjsCeYWi2Mb?usp=drive_link)
 
 * Generate your own sampling patterns via `gen_mask.m`.
 
